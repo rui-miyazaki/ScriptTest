@@ -14,12 +14,9 @@ public class test : MonoBehaviour {
 			Debug.Log(points[i]);
 
         }
-
-		int[] points2= { 1, 2, 3, 4, 5 };
-
-			for (int i = points2.Length - 1; 0 <= i; i--)
+        for (int a = points.Length - 1; 0 <= a; a--)
 			{
-				Debug.Log(points2[i]);
+				Debug.Log(points[a]);
 
 			}
 

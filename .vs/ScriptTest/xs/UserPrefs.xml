@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{173F8147-629D-61F4-F37A-D14CADF36EA9}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/test.cs">
     <Files>
-      <File FileName="Assets/Test.cs" Line="8" Column="17" />
+      <File FileName="Assets/Test.cs" Line="31" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,14 +13,6 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="ScriptTest" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -28,6 +20,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.ScriptTest PreferredExecutionTarget="00ba6962-33e5-44d9-896e-88adb6ff2767" />
+  <MonoDevelop.Ide.ItemProperties.ScriptTest PreferredExecutionTarget="0bb76b92-0ee6-4103-a88e-3081b1271b6b" />
   <MultiItemStartupConfigurations />
 </Properties>
